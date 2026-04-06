@@ -1,0 +1,13 @@
+.titulo{
+    color:violet;
+    display:flex;
+    justify-content: center;
+}
+.imagenes{
+display:flex;
+justify-content: center;
+
+}
+*{
+    background-color: black;
+}
